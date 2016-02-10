@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55bbb3da-d003-4c34-abcb-612bac77fe1e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/owl-carousel/AjaxLoader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/font-awesome-4.2.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoBold/RobotoBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoBold/RobotoBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoBold/RobotoBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoCondensedBold/RobotoCondensedBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoCondensedBold/RobotoCondensedBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoCondensedBold/RobotoCondensedBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoCondensedLight/RobotoCondensedLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoCondensedLight/RobotoCondensedLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoCondensedLight/RobotoCondensedLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoCondensedRegular/RobotoCondensedRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoCondensedRegular/RobotoCondensedRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoLight/RobotoLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoLight/RobotoLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoLight/RobotoLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoMedium/RobotoMedium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoMedium/RobotoMedium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoMedium/RobotoMedium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoRegular/RobotoRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoRegular/RobotoRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/fonts/RobotoRegular/RobotoRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/resources/commons-fileupload-1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/resources/commons-io-2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/img/ds.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/helpers/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/fancybox_loading@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/fancybox_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/owl-carousel/grabbing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/resources/javax.annotation.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/resources/javax.ejb.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/resources/javax.jms.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/resources/javax.persistence.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/resources/javax.resource.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/resources/javax.servlet.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/resources/javax.servlet.jsp.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/resources/javax.servlet.jsp.jstl.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/resources/javax.transaction.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/img/mo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/AccessEntity.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/src/modelDB/AccessEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/AccessEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/AdressEntity.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/src/modelDB/AdressEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/AdressEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/array/Array.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/array/ArrayImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/array/ArrayImplTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/CategeryForClientsEntity.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/src/modelDB/CategeryForClientsEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/CategeryForClientsEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/CategoryEntity.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/src/modelDB/CategoryEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/CategoryEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/CitiesEntity.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/src/modelDB/CitiesEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/CitiesEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/ClientsEntity.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/src/modelDB/ClientsEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/ClientsEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/java/com/committee/mail/ContentIdGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/DepartmentEntity.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/src/modelDB/DepartmentEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/DepartmentEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/src/main/java/com/committee/control/DispatcherServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/array/Display.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/java/com/committee/model/dao/DownloadImg.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/EmailsEntity.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/src/modelDB/EmailsEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/EmailsEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watch/src/main/java/com/watch/model/db/EnterPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EPAM/src/com/epam/task/game/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/java/com/committee/mail/FileLocationContextListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/src/main/java/com/committee/control/FrontController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/sort/Heap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/testSort/HeapTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/IdentificationEntity.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/src/modelDB/IdentificationEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/IdentificationEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/sort/Insertion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/testSort/InsertionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ServletFileUploadDownloadExample/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/java/com/committee/mail/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/testSort/MainSorts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/libraries/Maven__javax_mail_javax_mail_api_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watch/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/libraries/Maven__org_jboss_archetype_wfk_jboss_spring_mvc_archetype_2_7_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/sort/Merge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/testSort/MergeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/ProductsEntity.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/src/modelDB/ProductsEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/ProductsEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/sort/Quick.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/testSort/QuickTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/java/com/committee/control/SAdmin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/sort/Selection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/testSort/SelectionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/src/main/java/com/committee/control/ServletAdmin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/java/com/committee/control/ServletAdmin_.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ServletFileUploadDownloadExample/.idea/artifacts/ServletFileUploadDownloadExample_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/src/main/java/com/committee/control/ServletStart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/src/main/java/com/committee/control/ServletUser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/sort/Shell.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/intellect25/testSort/ShellTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/TelephonesEntity.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/src/modelDB/TelephonesEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/com/watches/model/db/TelephonesEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/runConfigurations/Unnamed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/java/com/committee/mail/UploadDownloadFileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/view/admin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/view/admin1.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/view/admin_.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/bootstrap/bootstrap-grid-3.3.1.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/commons_fileupload_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/commons_io_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/f1f05eb2-b36e-4398-8059-326e3ede6f11/console.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/src/main/webapp/META-INF/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/editor.codeinsight.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/editor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/html5shiv/es5-shim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/find.recents.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/font-awesome-4.2.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/view/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/view/header_.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watches/src/hibernate.cfg.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/html5shiv/html5shiv-printshiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/html5shiv/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/identification.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/javax_annotation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/javax_ejb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/javax_jms.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/javax_persistence.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/javax_resource.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/javax_servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/javax_servlet_jsp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/javax_servlet_jsp_jstl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/javax_transaction.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/jquery/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/countdown/jquery.countdown-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/countdown/jquery.countdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/countdown/jquery.countdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/helpers/jquery.fancybox-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/helpers/jquery.fancybox-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/helpers/jquery.fancybox-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/helpers/jquery.fancybox-thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/helpers/jquery.fancybox-thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/fancybox/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/jquery-mousewheel/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/countdown/jquery.plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/scrollto/jquery.scrollTo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/css/media.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/.idea/libraries/mysql_connector_java.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/SWatch/.idea/libraries/mysql_connector_java_5_1_35_bin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/landing-nav/navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/view/newMail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/view/newMail_.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/owl-carousel/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/owl-carousel/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/owl-carousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/owl-carousel/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/owl-carousel/owl.transitions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/html5shiv/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/respond/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watch/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ServletFileUploadDownloadExample/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/artifacts/untitled_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/artifacts/untitled_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watch/.idea/artifacts/watch_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/watch/.idea/artifacts/watch_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../workspace/school/src/main/webapp/libs/waypoints/waypoints-1.6.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../workspace/untitled/.idea/webContexts.xml" />
+    </list>
+    <ignored path="EPAM2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="EPAM2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ArrayImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/ArrayImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29792148">
+              <caret line="409" column="38" selection-start-line="409" selection-start-column="38" selection-end-line="409" selection-end-column="38" />
+              <folding>
+                <element signature="e#9661#9662#0" expanded="true" />
+                <element signature="e#9698#9699#0" expanded="true" />
+                <element signature="e#10657#10658#0" expanded="true" />
+                <element signature="e#10739#10740#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/ArrayImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="210" column="8" selection-start-line="210" selection-start-column="8" selection-end-line="210" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#7347#7348#0" expanded="true" />
+                <element signature="e#7384#7385#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeapTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/HeapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/InsertionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="186" column="33" selection-start-line="186" selection-start-column="33" selection-end-line="186" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SearchMinElValInd.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SearchMidVal.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/CountEl0.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/CountElMore0.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/MultPlusElNumb.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/AddElInd.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/CountNeedEl.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SearchIndInputArray.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/CheckArrayDecr.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/DisplayElDubl.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SearchValMoreNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/DisplayNotEl.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/DisplayElAreNotArray2.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/CountSimilVal.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/Display.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/sort/Heap.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/sort/Insertion.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/sort/Merge.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/sort/Quick.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/sort/Selection.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/sort/Shell.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/testSort/HeapTest.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/testSort/InsertionTest.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/testSort/MainSorts.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/testSort/MergeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/testSort/QuickTest.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/testSort/SelectionTest.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/testSort/ShellTest.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/CountElementIsZero.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/CountNeedElement.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/DisplayElementAreNotSecondArray.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/CountSimilaryValue.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/DisplayElementDublicate.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/DisplayNotElement.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/MoveArrayRight.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/MultiplicationElementNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/NullEven.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/NullNotEven.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SearchFirstEven.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SearchIndexInputArray.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SearchLastNotEven.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SearchMaxElementValueIndex.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SearchMiddleValue.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SearchMinElementValueIndex.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SearchValueMoreNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SumArray.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/SumElementAndIndex.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/CheckingOrderedDecreasingArray.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/Array.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/ArrayImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/intellect25/array/ArrayImplTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="56" />
+    <option name="y" value="22" />
+    <option name="width" value="1374" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPAM2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPAM2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPAM2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPAM2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPAM2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intellect25" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testSort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPAM2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPAM2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intellect25" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPAM2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPAM2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intellect25" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="array" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/tomcat" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.intellect25.array" />
+      <recent name="com.intellect25.sort" />
+      <recent name="com.intellect25.sorts" />
+      <recent name="com.intellect25.sort1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ArrayImplTest">
+    <configuration default="false" name="MergeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.intellect25.testSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EPAM2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.intellect25.testSort" />
+      <option name="MAIN_CLASS_NAME" value="com.intellect25.testSort.MergeTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="QuickTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.intellect25.testSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EPAM2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.intellect25.testSort" />
+      <option name="MAIN_CLASS_NAME" value="com.intellect25.testSort.QuickTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SelectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.intellect25.testSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EPAM2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.intellect25.testSort" />
+      <option name="MAIN_CLASS_NAME" value="com.intellect25.testSort.SelectionTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="ShellTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.intellect25.testSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EPAM2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.intellect25.testSort" />
+      <option name="MAIN_CLASS_NAME" value="com.intellect25.testSort.ShellTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="ArrayImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.intellect25.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EPAM2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.intellect25.array" />
+      <option name="MAIN_CLASS_NAME" value="com.intellect25.array.ArrayImplTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MergeTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.QuickTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SelectionTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ShellTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ArrayImplTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ArrayImplTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ShellTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SelectionTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.QuickTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MergeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55bbb3da-d003-4c34-abcb-612bac77fe1e" name="Default" comment="" />
+      <created>1445329006962</created>
+      <option name="number" value="Default" />
+      <updated>1445329006962</updated>
+      <workItem from="1445329009140" duration="192000" />
+      <workItem from="1445374133658" duration="1473000" />
+      <workItem from="1445378988003" duration="9554000" />
+      <workItem from="1445414243302" duration="11284000" />
+      <workItem from="1445520108273" duration="2355000" />
+      <workItem from="1445537485631" duration="12000" />
+      <workItem from="1445538831303" duration="20996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45866000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="56" y="22" width="1374" height="806" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289855" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994187" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994187" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/ArrayImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#9661#9662#0" expanded="true" />
+            <element signature="e#9698#9699#0" expanded="true" />
+            <element signature="e#10657#10658#0" expanded="true" />
+            <element signature="e#10739#10740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="88" column="10" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/ArrayImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#9661#9662#0" expanded="true" />
+            <element signature="e#9698#9699#0" expanded="true" />
+            <element signature="e#10657#10658#0" expanded="true" />
+            <element signature="e#10739#10740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="88" column="10" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/ArrayImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="177" column="12" selection-start-line="177" selection-start-column="12" selection-end-line="177" selection-end-column="12" />
+          <folding>
+            <element signature="e#9661#9662#0" expanded="true" />
+            <element signature="e#9698#9699#0" expanded="true" />
+            <element signature="e#10657#10658#0" expanded="true" />
+            <element signature="e#10739#10740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/InsertionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/MainSorts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/MergeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/QuickTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/SelectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/ShellTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/HeapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/sort/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/sort/Insertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/sort/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#141#142#0" expanded="false" />
+            <element signature="e#185#186#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/sort/Insertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/sort/Quick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/sort/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/sort/Shell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/MainSorts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/MergeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/QuickTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/SelectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/ShellTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/sort/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/sort/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13595167">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/HeapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/testSort/InsertionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="186" column="33" selection-start-line="186" selection-start-column="33" selection-end-line="186" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/ArrayImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="210" column="8" selection-start-line="210" selection-start-column="8" selection-end-line="210" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7347#7348#0" expanded="true" />
+            <element signature="e#7384#7385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intellect25/array/ArrayImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29792148">
+          <caret line="409" column="38" selection-start-line="409" selection-start-column="38" selection-end-line="409" selection-end-column="38" />
+          <folding>
+            <element signature="e#9661#9662#0" expanded="true" />
+            <element signature="e#9698#9699#0" expanded="true" />
+            <element signature="e#10657#10658#0" expanded="true" />
+            <element signature="e#10739#10740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

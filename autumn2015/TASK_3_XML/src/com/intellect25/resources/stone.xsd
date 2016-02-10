@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.example.com/mns"
+           xmlns:mns="http://www.example.com/mns">
+
+    <xsd:element name="pavilion">
+        <xsd:annotation>
+            <xsd:documentation>To change this template, choose Tools | Templates and open the template in the editor.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="gem">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="stone" type="mns:stone" maxOccurs="unbounded"/>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:complexType name="stone">
+        <xsd:sequence>
+            <xsd:element type="xsd:string" name="name"/>
+            <xsd:element type="mns:preciousness" name="preciousness"/>
+            <xsd:element type="xsd:string" name="origin"/>
+            <xsd:element type="mns:visual" name="visual"/>
+            <xsd:element type="mns:value" name="value"/>
+        </xsd:sequence>
+        <xsd:attribute  name="id" use="optional" >
+            <xsd:simpleType>
+                <xsd:restriction base="xsd:int">
+                    <xsd:pattern value="[0-9]{1,4}"/>
+                </xsd:restriction>
+            </xsd:simpleType>
+        </xsd:attribute>
+    </xsd:complexType>
+
+    <xsd:simpleType name="preciousness">
+        <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="PRECIOUS"/>
+            <xsd:enumeration value="SEMIPRECIOUS"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:complexType name="visual">
+        <xsd:sequence>
+            <xsd:element type="mns:color" name="color"/>
+            <xsd:element type="mns:transparency" name="transparency"/>
+            <xsd:element type="mns:cutting" name="cutting"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:simpleType name="color">
+        <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="RED"/>
+            <xsd:enumeration value="ORANGE"/>
+            <xsd:enumeration value="YELLOW"/>
+            <xsd:enumeration value="GREEN"/>
+            <xsd:enumeration value="BLUE"/>
+            <xsd:enumeration value="VIOLET"/>
+            <xsd:enumeration value="COLORLESS"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+    
+    <xsd:simpleType name="transparency">
+        <xsd:restriction base="xsd:int">
+            <xsd:minInclusive value="0"/>
+            <xsd:maxInclusive value="100"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+    
+    <xsd:simpleType name="cutting">
+        <xsd:restriction base="xsd:integer">
+            <xsd:minInclusive value="4"/>
+            <xsd:maxInclusive value="15"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:simpleType name="value">
+        <xsd:restriction base="xsd:float">
+            <xsd:minInclusive value="0.01"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+
+</xsd:schema>

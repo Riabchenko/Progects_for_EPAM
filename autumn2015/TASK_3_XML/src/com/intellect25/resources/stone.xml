@@ -1,0 +1,43 @@
+<mns:pavilion xmlns:mns="http://www.example.com/mns"
+              xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"
+              xsd:schemaLocation="http://www.example.com/mns stone.xsd">
+
+    <gem>
+        <!--1 or more repetitions:-->
+        <stone id="0">
+            <name>Diamond</name>
+            <preciousness>PRECIOUS</preciousness>
+            <origin>Kimberley, South Africa</origin>
+            <visual>
+                <color>COLORLESS</color>
+                <transparency>100</transparency>
+                <cutting>15</cutting>
+            </visual>
+            <value>0.1</value>
+        </stone>
+
+        <stone id="1">
+            <name>Ruby</name>
+            <preciousness>PRECIOUS</preciousness>
+            <origin>Kimberley, South Africa</origin>
+            <visual>
+                <color>RED</color>
+                <transparency>70</transparency>
+                <cutting>10</cutting>
+            </visual>
+            <value>1.0</value>
+        </stone>
+
+        <stone id="2">
+            <name>Quartz</name>
+            <preciousness>SEMIPRECIOUS</preciousness>
+            <origin>Magadan, Russian Federation</origin>
+            <visual>
+                <color>RED</color>
+                <transparency>80</transparency>
+                <cutting>4</cutting>
+            </visual>
+            <value>2.0</value>
+        </stone>
+    </gem>
+</mns:pavilion>

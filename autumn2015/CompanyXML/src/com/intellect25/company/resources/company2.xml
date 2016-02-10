@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<mns:company xmlns:mns="http://com.intellect25.company.resources4/mns"
+             xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+             xs:schemaLocation="http://com.intellect25.company.resources4/mns company.xsd">
+    <mns:manager id="2">
+        <mns:firstName>string</mns:firstName>
+        <mns:middleName>string</mns:middleName>
+        <mns:lastName>B</mns:lastName>
+        <mns:birthday>2006-08-19+03:00</mns:birthday>
+        <mns:dateOfGetJob>2009-05-16</mns:dateOfGetJob>
+        <mns:listWorkers>
+            <mns:workerId>3</mns:workerId>
+            <mns:workerId>4</mns:workerId>
+            <mns:workerId>6</mns:workerId>
+        </mns:listWorkers>
+    </mns:manager>
+    <mns:other id="1">
+        <mns:firstName>string</mns:firstName>
+        <mns:middleName>string</mns:middleName>
+        <mns:lastName>C</mns:lastName>
+        <mns:birthday>2008-09-29</mns:birthday>
+        <mns:dateOfGetJob>2014-09-19</mns:dateOfGetJob>
+        <mns:info>string</mns:info>
+    </mns:other>
+    <mns:worker id="6">
+        <mns:firstName>string</mns:firstName>
+        <mns:middleName>string</mns:middleName>
+        <mns:lastName>D</mns:lastName>
+        <mns:birthday>2008-09-29</mns:birthday>
+        <mns:dateOfGetJob>2016-09-19</mns:dateOfGetJob>
+    </mns:worker>
+    <mns:worker id="3">
+        <mns:firstName>string</mns:firstName>
+        <mns:middleName>string</mns:middleName>
+        <mns:lastName>A</mns:lastName>
+        <mns:birthday>2003-08-09</mns:birthday>
+        <mns:dateOfGetJob>2014-09-13</mns:dateOfGetJob>
+    </mns:worker>
+    <mns:worker id="4">
+        <mns:firstName>string</mns:firstName>
+        <mns:middleName>string</mns:middleName>
+        <mns:lastName>string</mns:lastName>
+        <mns:birthday>2003-08-09+03:00</mns:birthday>
+        <mns:dateOfGetJob>2011-09-13</mns:dateOfGetJob>
+    </mns:worker>
+    <mns:worker id="5">
+        <mns:firstName>string</mns:firstName>
+        <mns:middleName>string</mns:middleName>
+        <mns:lastName>V</mns:lastName>
+        <mns:birthday>2003-08-09+03:00</mns:birthday>
+        <mns:dateOfGetJob>2015-09-13+03:00</mns:dateOfGetJob>
+    </mns:worker>
+</mns:company>

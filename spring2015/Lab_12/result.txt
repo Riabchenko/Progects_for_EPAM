@@ -1,0 +1,21 @@
+Thread-0 Producer #10 started.
+Thread-0 Producer #10 wrote: 536
+Consumer #12 started.
+Thread-2 Consumer #12 will wait
+Consumer #13 started.
+Thread-3 Consumer #13 will wait
+Thread-4 Producer #14 started.
+Thread-4 Producer #14 wrote: 999
+Thread-5 Producer #15 started.
+Thread-3 Consumer #13 woke up
+Thread-2 Consumer #12 woke up
+Consumer #16 started.
+Consumer #17 started.
+Thread-5 Producer #15 wrote: 119
+Thread-8 Producer #18 started.
+Thread-6 Consumer #16 will wait
+Thread-9 Producer #19 started.
+Thread-9 Producer #19 wrote: 916
+Consumer #20 started.
+Consumer #21 started.
+Thread-7 Consumer #17 will wait
